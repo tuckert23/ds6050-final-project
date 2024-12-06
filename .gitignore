@@ -164,4 +164,4 @@ cython_debug/
 # Data are too big for GH, so only ZIP files will be uploaded
 *.csv
 *.h5
-*.zip
+data/zip_file/archive.zip
