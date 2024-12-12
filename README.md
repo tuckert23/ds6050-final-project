@@ -1,4 +1,6 @@
 # DS6050 Final Project
+## UVA School of Data Science
+
 ### Authors:
 - Taylor Tucker
 - Abner Casillas-Colon
