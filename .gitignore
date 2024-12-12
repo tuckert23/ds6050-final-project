@@ -170,3 +170,4 @@ milestones/milestone3/m3_data.zip
 milestones/milestone3/enc-dec/enc_dec_preprocessed_data.h5.zip
 *.pdf
 research/
+.DS_Store
